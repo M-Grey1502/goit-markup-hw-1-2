@@ -1,0 +1,98 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #ffff;}
+
+.header {
+    background-color: #ffffff;
+}
+
+.list {
+    list-style: none;
+}
+
+.header-logo {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.19;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196f3;
+}
+
+.header-link:hover,
+.header-link:focus {
+    color: #2196f3;
+}
+
+.header-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.contakts-mail {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+
+    color: #2196f3;
+}
+
+.contakts-tel {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+
+    color: #757575;
+}
+
+/* -----------------HEADER-----------------*/
+
+.botton{
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.62;
+        text-align: center;
+        letter-spacing: 0.03em;
+        color: #FFFFFF;
+}
+.images-item{
+    background: #E5E5E5;
+}
+.image-eight{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 215px;
+    top: 262px;
+    background: url(.jpg);
+}
+.image-nine{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 615px;
+    top: 262px;
+    background: url(.jpg);
+}
+
+.footer{
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 1628px;
+    background: #2F303A;
+}
+.footer-logo{
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
